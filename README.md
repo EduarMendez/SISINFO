@@ -4,3 +4,4 @@ Sistemas de Informacion
 - **Frank Kenner Olmos Prada**
 - **Daniel Aguilar Castro**
 - **Juliana Parra Caro**
+- **Jenny Catherine Herrera Garzon**
